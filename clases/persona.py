@@ -10,8 +10,10 @@ class Persona:
     def correr(self):
         return f"Usted {self.nombre} tiene {self.edad} años de edad, su sexo es {self.sexo} y está corriendo."
 
-persona0 = Persona("Juan", 20, "Hombre")
-print(persona0)
-persona1 = Persona("John Calle", 28, "masculino")
-print(persona1.correr())
+#persona0 = Persona("Juan", 20, "Hombre")
+#print(persona0)
+#persona1 = Persona("John Calle", 28, "masculino")
+#print(persona1.correr())
+
+
  
