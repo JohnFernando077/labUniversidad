@@ -9,6 +9,6 @@ class Universidad:
     def __str__(self):
         return  f"La universidad {self.nombre} tiene los cursos de {self.cursos}"
 
-universidad1 = Universidad("SPOCH", ["1mer ciclo", "2do ciclo", "3er ciclo"])
-print(universidad1)    
+#universidad1 = Universidad("SPOCH", ["1mer ciclo", "2do ciclo", "3er ciclo"])
+#print(universidad1)    
     
