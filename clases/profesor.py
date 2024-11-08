@@ -10,7 +10,7 @@ class Profesor(Persona):
 
     def __str__(self):
         return f"El docente {self.nombre} tiene {self.edad} años de edad, su sexo es {self.sexo}, su codigo es {self.codigo} y su especialidad es {self.especialidad}"
-profesor1 = Profesor("John Calle", 28, "hombre", "ABC123", "Sistemas")
-print(profesor1)
+#profesor1 = Profesor("John Calle", 28, "hombre", "ABC123", "Sistemas")
+#print(profesor1)
         
         
